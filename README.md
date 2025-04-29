@@ -47,7 +47,7 @@ um pouco mais prático, fazendo algo que é um hobby na minha vida.
     Produto --> Categoria : pertence a
     Pedido --> Usuario : feito por
     Pedido --> Produto : contém
-`´`
+```
 
 Pedi para o Copilot me ajudar na criação do diagrama de classe que está acima
 e fica uma visualização muito boa de como vai ser a estrutura da minha API.
